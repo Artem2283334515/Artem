@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+background-color :aqua;
+color :black; 
+}
+
+h1 {
+    color :blueviolet;
+}
+p {
+background-color: chartreuse;
